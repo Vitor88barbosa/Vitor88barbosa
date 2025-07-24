@@ -1,16 +1,3 @@
-<table>
-  <tr>
-    <td valign="top" width="180">
-      <img src="[(https://github.com/Vitor88barbosa/Vitor88barbosa/blob/main/WhatsApp%20Image%202025-07-24%20at%2009.29.47.jpeg?raw=true)]" alt="Foto de Perfil do Vitor Barbosa" width="150" style="border-radius:50%">
-    </td>
-    <td valign="top">
-      <h3>Olá! Sou o Vitor. 👋</h3>
-      <p>Sou um Analista de Dados com mais de 6 anos de experiência, especializado em transformar dados complexos em dashboards e relatórios interativos com <strong>Qlik Sense</strong>.</p>
-      <p>Atualmente, meu foco é a análise de indicadores e o monitoramento do andamento de obras no Distrito Federal, onde utilizo dados para ajudar a gestão a tomar decisões mais estratégicas e eficientes. Paralelamente, sou um entusiasta de tecnologia e exploro a construção de pipelines de dados na nuvem (AWS) e análises com Python em projetos pessoais.</p>
-    </td>
-  </tr>
-</table>
----
 ### Vitor here! 👋
 
 Sou um Analista de Dados com mais de 6 anos de experiência, especializado em transformar dados complexos em dashboards e relatórios interativos com **Qlik Sense**.
